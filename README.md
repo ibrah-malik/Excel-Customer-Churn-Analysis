@@ -6,7 +6,7 @@ This project focuses on analyzing customer churn for a fictitious telecommunicat
 ## Files in this Repository
 * **`source_data.xlsx`**: The initial dataset containing customer dimensions and unformatted measures.
 * **`final_insights.xlsx`**: The completed Excel workbook featuring data preparation, calculated pivot tables, and the final interactive dashboard.
-* 
+
 ## Business Problem
 It is typically easier to retain existing customers than to attract new ones, making churn reduction a major priority. The objective of this analysis is to:
 * Calculate the overall churn rate.
